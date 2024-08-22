@@ -1,3 +1,8 @@
+NOTE : Copy the content of the file and make them executable
+
+
+
+
 Here's a `README.md` file that explains the two scripts provided:
 
 ---
