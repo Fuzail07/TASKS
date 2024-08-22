@@ -25,23 +25,7 @@ This script provides real-time monitoring of essential system metrics such as CP
 
 ### Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/linux-system-monitoring.git
-   cd linux-system-monitoring
-   ```
-
-2. **Make the Script Executable**:
-   ```bash
-   chmod +x system_monitor.sh
-   ```
-
-3. **Run the Script**:
-   ```bash
-   sudo ./system_monitor.sh
-   ```
-
-4. **Adjust the Update Frequency**:
+ **Adjust the Update Frequency**:
    - The script is set to refresh every 5 seconds by default. You can change this by modifying the `UPDATE_FREQUENCY` variable at the beginning of the script.
 
 ### Requirements
@@ -71,23 +55,7 @@ This script automates the process of auditing a Linux server's security configur
 
 ### Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/linux-security-audit.git
-   cd linux-security-audit
-   ```
-
-2. **Make the Script Executable**:
-   ```bash
-   chmod +x security_audit.sh
-   ```
-
-3. **Run the Script**:
-   ```bash
-   sudo ./security_audit.sh
-   ```
-
-4. **Custom Security Checks**:
+**Custom Security Checks**:
    - The script allows for custom security checks defined in the `custom_security_checks.conf` file. You can edit this file to add additional checks specific to your environment.
 
 ### Requirements
