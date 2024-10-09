@@ -1,5 +1,4 @@
-NOTE : Copy the content of the file and make them executable
-
+NOTE : Make the files executable using .sh as the extention.
 
 
 
